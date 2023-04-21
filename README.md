@@ -1,7 +1,7 @@
 
 ![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/data-science-and-data-analytics-comparison-8114369-6526219.png)
 <h1 align="center">Hi 👋, I'm James Osuji</h1>
-<h3 align="center">I am about passionate transforming complex data into meaningful insights as well as providing actionable recommendations</h3>
+<h3 align="center">I am passionate Data Analyst with a compliance background</h3>
 
 - 💬 Ask me about **SQL, Cohort analysis, funnel analysis, linear/logistic regression, Google data studio.**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/james-osuji-18941b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/james-osuji-18941b21b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/james-osuji-18941b21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/james-osuji-18941b21b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
