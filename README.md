@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm James Osuji</h2>
 <h3 align="center">I am a passionate data analyst with a compliance background</h3>
 
-- 🔭 I’m currently looking for **data analyst role**
+- 🔭 I’m currently looking for **Data analyst role**
 
 - 👯 I’m looking to collaborate on **any data analytics project**
 
