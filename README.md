@@ -1,7 +1,7 @@
 
 ![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/data-science-and-data-analytics-comparison-8114369-6526219.png)
 <h1 align="center">Hi 👋, I'm James Osuji</h1>
-<h3 align="center">I am a passionate data analyst from a compliance background</h3>
+<h3 align="center">I am a passionate data analyst with a compliance background</h3>
 
 - 🔭 I’m currently looking for **a role in data analytics**
 
