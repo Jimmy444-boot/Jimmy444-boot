@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm James Osuji</h1>
 <h3 align="center">I am a passionate data analyst from a compliance background</h3>
 
+- 🔭 I’m currently looking for **a role in data analytics**
+
+- 👯 I’m looking to collaborate on **any data analytics project**
+
+- 📝 Data visualization skills: Looker data studio
+
 - 💬 Ask me about **SQL, Cohort analysis, funnel analysis, linear/logistic regression, Google data studio, Goolge Sheets.**
 
 - 📫 How to reach me **osujindubuisi@outlook.com**
