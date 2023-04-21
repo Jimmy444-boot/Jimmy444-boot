@@ -7,7 +7,15 @@
 
 - 👯 I’m looking to collaborate on **any data analytics project**
 
-- 📝 Data visualization skills  **Looker, Data studio.**
+- 📝 Data visualization skills  **Google Spreadsheets, Looker, Google Data studio, PowerPoint**
+
+- 📝 Databases skills **MySQL, Big Query, PostGreSQL**
+
+- 📝 Statistics/Machine Learnings **A/B testing, Linear regression, Logistic regression**
+
+- 📝 Analytical methods **Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CLV**
+
+- Domain Knowledge **Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics**
 
 - 📫 How to reach me **osujindubuisi@outlook.com**
 
