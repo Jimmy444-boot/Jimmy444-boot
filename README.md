@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **osujindubuisi@outlook.com**
 
-- ⚡ Fun fact **I love to play badminton even though I am not a good player**
+- ⚡ Fun fact **I love to play badminton but I have never bought my own racket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
