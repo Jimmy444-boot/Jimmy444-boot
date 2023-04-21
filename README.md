@@ -1,19 +1,17 @@
 
 ![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/data-science-and-data-analytics-comparison-8114369-6526219.png)
-<h1 align="center">Hi 👋, I'm James Osuji</h1>
+<h2 align="center">Hi 👋, I'm James Osuji</h2>
 <h3 align="center">I am a passionate data analyst with a compliance background</h3>
 
 - 🔭 I’m currently looking for **a role in data analytics**
 
 - 👯 I’m looking to collaborate on **any data analytics project**
 
-- 📝 Data visualization skills: Looker data studio
-
-- 💬 Ask me about **SQL, Cohort analysis, funnel analysis, linear/logistic regression, Google data studio, Goolge Sheets.**
+- 📝 Data visualization skills  **Looker, Data studio.**
 
 - 📫 How to reach me **osujindubuisi@outlook.com**
 
-- ⚡ Fun fact **I love to play badminton but I have never bought my own racket**
+- ⚡ Fun fact **I love to play badminton, and I have never bought a racket.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
