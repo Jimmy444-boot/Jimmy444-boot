@@ -15,7 +15,7 @@
 
 - 📝 Analytical methods **Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, Customer segmentation analysis, RFM & CLV**
 
-- Domain Knowledge **Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics**
+- 📝 Domain Knowledge **Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics**
 
 - 📫 How to reach me **osujindubuisi@outlook.com**
 
