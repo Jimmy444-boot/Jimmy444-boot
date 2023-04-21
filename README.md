@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm James Osuji</h1>
 <h3 align="center">I am a passionate Data Analyst with a compliance background</h3>
 
-- 💬 Ask me about **SQL, Cohort analysis, funnel analysis, linear/logistic regression, Google data studio.**
+- 💬 Ask me about **SQL, Cohort analysis, funnel analysis, linear/logistic regression, Google data studio, Goolge Sheets.**
 
 - 📫 How to reach me **osujindubuisi@outlook.com**
 
