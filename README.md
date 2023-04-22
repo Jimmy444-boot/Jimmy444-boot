@@ -3,6 +3,8 @@
 <h2 align="center">Hi 👋, I'm James Osuji</h2>
 <h3 align="center">I am a passionate data analyst with a compliance background</h3>
 
+<img align="right" alt="coding" height ="400" width="400" src="https://p.kindpng.com/picc/s/247-2471408_introhive-hd-png-download.png">
+
 - 🔭 I’m currently looking for **Data analyst role**
 
 - 👯 I’m looking to collaborate on **any data analytics project**
