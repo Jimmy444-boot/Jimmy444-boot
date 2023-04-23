@@ -11,7 +11,7 @@
 
 - 📝 Data visualization skills  **(Google Spreadsheets, Looker, Google Data studio, Google Slide)**
 
-- 📝 Databases skills **(MySQL, Big Query, PostGreSQL)**
+- 📝 Databases skills **(Big Query, PostGreSQL, MySQL)**
 
 - 📝 Statistics/Machine Learnings **(A/B testing, Linear regression, Logistic regression)**
 
