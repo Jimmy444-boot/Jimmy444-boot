@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any data analytics project**
 
-- 📝 Data visualization skills  **(Google Spreadsheets, Looker, Google Data studio, Google Slide)**
+- 📝 Data visualization skills  **(Google Spreadsheets, Excel, Looker, Google Data studio, Google Slide)**
 
 - 📝 Databases skills **(Big Query, PostGreSQL, MySQL)**
 
