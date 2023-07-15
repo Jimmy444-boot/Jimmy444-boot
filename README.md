@@ -1,7 +1,7 @@
 
 ![MasterHead](https://cdni.iconscout.com/illustration/premium/thumb/data-science-and-data-analytics-comparison-8114369-6526219.png)
 <h2 align="center"> Hi 👋, I'm James Osuji </h2>
-<h3 align="center">I am a data analyst with years of experience in compliance</h3>
+<h3 align="center">I am a fine data analyst</h3>
 
 <img align="right" alt="coding" height ="400" width="400" src="https://p.kindpng.com/picc/s/247-2471408_introhive-hd-png-download.png">
 
