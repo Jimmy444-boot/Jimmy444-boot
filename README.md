@@ -19,7 +19,7 @@
 
 - 📝 Domain Knowledge **(Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics)**
 
-- 📫 How to reach me **osujindubuisi@outlook.com**
+- 📫 How to reach me **osuji_james@yahoo.com**
 
 - ⚡ Analytical fact **(If you're in business, it's great to know what your customers have done in the past and what they are doing right now. But the real magic is knowing what they are going do next so you can be there waiting for them when they show up)**
 
