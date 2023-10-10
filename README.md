@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" height ="400" width="400" src="https://p.kindpng.com/picc/s/247-2471408_introhive-hd-png-download.png">
 
-- 👯 I’m looking to collaborate on **any data analytics project**
+- 👯 I’m looking to collaborate on **any data analytics project and my skills are as follows:**
 
 - 📝 Data visualization skills  **(Google Spreadsheets, Excel, Looker, Google Data studio, Google Slide)**
 
