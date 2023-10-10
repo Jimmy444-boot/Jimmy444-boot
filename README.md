@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" height ="400" width="400" src="https://p.kindpng.com/picc/s/247-2471408_introhive-hd-png-download.png">
 
-- 🔭 I’m a **Data analyst role**
-
 - 👯 I’m looking to collaborate on **any data analytics project**
 
 - 📝 Data visualization skills  **(Google Spreadsheets, Excel, Looker, Google Data studio, Google Slide)**
