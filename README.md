@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any data analytics project and my skills are as follows:**
 
-- 📝 Data visualization skills  **(Google Spreadsheets, Excel, Looker, Google Data studio, Google Slide)**
+- 📝 Data visualization skills  **(Google Spreadsheets, Excel, Looker, Google Data studio, Google Slide, Tableau)**
 
 - 📝 Databases skills **(Big Query, PostGreSQL, MySQL)**
 
@@ -17,7 +17,7 @@
 
 - 📝 Domain Knowledge **(Product Analytics, Marketing Analytics, Payments Analytics, Monetization Analytics)**
 
-- Python for Data analytics(Numpy, Pandas, Seaborn, Matplotib)
+- 📝 Languages: SQL, Python (Numpy, Pandas, Seaborn, Matplotib)
 
 - 📫 How to reach me **osuji_james@yahoo.com**
 
